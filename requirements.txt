@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.0.1+cpu
+fastapi
+uvicorn
+sentence-transformers==2.2.2
+huggingface-hub==0.23.2
+faiss-cpu==1.7.4
+rank-bm25
+google-generativeai
+beautifulsoup4
+httpx
+pydantic
+
